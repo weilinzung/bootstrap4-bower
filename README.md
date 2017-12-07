@@ -18,38 +18,26 @@ Within the download you'll find the following directories and files, logically g
 
 ```
 bootstrap/
-├── css/
-│   ├── bootstrap.css
-│   ├── bootstrap.css.map
-│   ├── bootstrap.min.css
-│   ├── bootstrap.min.css.map
-│   ├── bootstrap-grid.css
-│   ├── bootstrap-grid.css.map
-│   ├── bootstrap-grid.min.css
-│   ├── bootstrap-grid.min.css.map
-│   ├── bootstrap-reboot.css
-│   ├── bootstrap-reboot.css.map
-│   ├── bootstrap-reboot.min.css
-│   └── bootstrap-reboot.min.css.map
-└── js/
-    ├── bootstrap.bundle.js
-    ├── bootstrap.bundle.min.js
-    ├── bootstrap.js
-    └── bootstrap.min.js
+└── dist
+    ├── css/
+    │   ├── bootstrap.css
+    │   ├── bootstrap.css.map
+    │   ├── bootstrap.min.css
+    │   ├── bootstrap.min.css.map
+    │   ├── bootstrap-grid.css
+    │   ├── bootstrap-grid.css.map
+    │   ├── bootstrap-grid.min.css
+    │   ├── bootstrap-grid.min.css.map
+    │   ├── bootstrap-reboot.css
+    │   ├── bootstrap-reboot.css.map
+    │   ├── bootstrap-reboot.min.css
+    │   └── bootstrap-reboot.min.css.map
+    └── js/
+        ├── bootstrap.bundle.js
+        ├── bootstrap.bundle.min.js
+        ├── bootstrap.js
+        └── bootstrap.min.js
 ```
-
-
-## Creators
-
-**Mark Otto**
-
-- <https://twitter.com/mdo>
-- <https://github.com/mdo>
-
-**Jacob Thornton**
-
-- <https://twitter.com/fat>
-- <https://github.com/fat>
 
 
 ## Copyright and license
