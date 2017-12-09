@@ -12,7 +12,7 @@
     "framework",
     "web"
   ],
-  "homepage": "https://getbootstrap.com",
+  "homepage": "https://github.com/weilinzung/bootstrap4-bower",
   "license": "MIT",
   "moduleType": "globals",
   "main": [
