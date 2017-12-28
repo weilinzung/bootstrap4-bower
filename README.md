@@ -2,7 +2,7 @@
   <a href="https://getbootstrap.com/">
     <img src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width=72 height=72>
   </a>
-  <h3 align="center">Bootstrap: 4.0.0-beta.2</h3>
+  <h3 align="center">Bootstrap: 4.0.0-beta.3</h3>
 </p>
 
 
