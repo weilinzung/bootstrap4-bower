@@ -10,7 +10,7 @@
 
 - Install with [Bower](https://bower.io/): `bower install bootstrap4-bower`
 
-Read the [Getting started page](https://getbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
+Read the [Getting started page](https://getbootstrap.com/) for information on the framework contents, templates and examples, and more.
 
 ## What's included
 
