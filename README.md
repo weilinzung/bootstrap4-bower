@@ -1,4 +1,4 @@
-<h1><img src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="Bootstrap" height=54 width=54>Bootstrap 4</h1>
+<h1><img style="vertical-align: middle;" src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="Bootstrap" height=54 width=54> Bootstrap 4</h1>
 
 > Version 4.0.0 Stable
 
