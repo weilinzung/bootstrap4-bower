@@ -1,6 +1,6 @@
 <h1><img src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="Bootstrap" height=25 width=25> Bootstrap 4</h1>
 
-> Version 4.0.0 Stable
+> Version 4.1.0
 
 ## Quick start
 
@@ -14,6 +14,8 @@ Within the download you'll find the following directories and files, logically g
 
 ```
 bootstrap/
+├── README.md
+├── bower.json
 └── dist
     ├── css
     │   ├── bootstrap-grid.css
@@ -96,7 +98,6 @@ bootstrap/
         │   ├── _list-group.scss
         │   ├── _lists.scss
         │   ├── _nav-divider.scss
-        │   ├── _navbar-align.scss
         │   ├── _pagination.scss
         │   ├── _reset-text.scss
         │   ├── _resize.scss
@@ -119,6 +120,7 @@ bootstrap/
             ├── _float.scss
             ├── _position.scss
             ├── _screenreaders.scss
+            ├── _shadows.scss
             ├── _sizing.scss
             ├── _spacing.scss
             ├── _text.scss
