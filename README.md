@@ -1,6 +1,6 @@
 <h1><img src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="Bootstrap" height=25 width=25> Bootstrap 4</h1>
 
-> Version 4.1.0
+> Version 4.1.1
 
 ## Quick start
 
