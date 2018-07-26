@@ -1,6 +1,6 @@
 <h1><img src="https://getbootstrap.com/docs/4.1/assets/img/bootstrap-stack.png" alt="Bootstrap" height=25 width=25> Bootstrap 4</h1>
 
-> Version 4.1.1
+> Version 4.1.3
 
 ## Quick start
 
