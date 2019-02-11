@@ -1,6 +1,6 @@
 <h1><img src="https://getbootstrap.com/docs/4.1/assets/img/bootstrap-stack.png" alt="Bootstrap" height=25 width=25> Bootstrap 4</h1>
 
-> Version 4.2.1
+> Version 4.3.0
 
 ## Quick start
 
@@ -90,6 +90,7 @@ bootstrap/
         │   ├── _buttons.scss
         │   ├── _caret.scss
         │   ├── _clearfix.scss
+        │   ├── _deprecate.scss
         │   ├── _float.scss
         │   ├── _forms.scss
         │   ├── _gradients.scss
@@ -111,23 +112,26 @@ bootstrap/
         │   ├── _text-truncate.scss
         │   ├── _transition.scss
         │   └── _visibility.scss
-        └── utilities
-            ├── _align.scss
-            ├── _background.scss
-            ├── _borders.scss
-            ├── _clearfix.scss
-            ├── _display.scss
-            ├── _embed.scss
-            ├── _flex.scss
-            ├── _float.scss
-            ├── _overflow.scss
-            ├── _position.scss
-            ├── _screenreaders.scss
-            ├── _shadows.scss
-            ├── _sizing.scss
-            ├── _spacing.scss
-            ├── _text.scss
-            └── _visibility.scss
+        ├── utilities
+        │   ├── _align.scss
+        │   ├── _background.scss
+        │   ├── _borders.scss
+        │   ├── _clearfix.scss
+        │   ├── _display.scss
+        │   ├── _embed.scss
+        │   ├── _flex.scss
+        │   ├── _float.scss
+        │   ├── _overflow.scss
+        │   ├── _position.scss
+        │   ├── _screenreaders.scss
+        │   ├── _shadows.scss
+        │   ├── _sizing.scss
+        │   ├── _spacing.scss
+        │   ├── _stretched-link.scss
+        │   ├── _text.scss
+        │   └── _visibility.scss
+        └── vendor
+            └── _rfs.scss
 ```
 
 
