@@ -1,6 +1,6 @@
 <h1><img src="https://getbootstrap.com/docs/4.1/assets/img/bootstrap-stack.png" alt="Bootstrap" height=25 width=25> Bootstrap 4</h1>
 
-> Version 4.1.3
+> Version 4.2.1
 
 ## Quick start
 
@@ -69,7 +69,9 @@ bootstrap/
         ├── _progress.scss
         ├── _reboot.scss
         ├── _root.scss
+        ├── _spinners.scss
         ├── _tables.scss
+        ├── _toasts.scss
         ├── _tooltip.scss
         ├── _transitions.scss
         ├── _type.scss
@@ -118,6 +120,7 @@ bootstrap/
             ├── _embed.scss
             ├── _flex.scss
             ├── _float.scss
+            ├── _overflow.scss
             ├── _position.scss
             ├── _screenreaders.scss
             ├── _shadows.scss
