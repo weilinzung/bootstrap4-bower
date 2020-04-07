@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width=72 height=72>
-  </a>
-  <h3 align="center">Bootstrap: 4.0.0 Stable</h3>
-</p>
+<h1><img src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="Bootstrap" height=25 width=25> Bootstrap 4</h1>
 
+> Version 4.1.0
 
 ## Quick start
 
@@ -18,6 +14,8 @@ Within the download you'll find the following directories and files, logically g
 
 ```
 bootstrap/
+├── README.md
+├── bower.json
 └── dist
     ├── css
     │   ├── bootstrap-grid.css
@@ -100,7 +98,6 @@ bootstrap/
         │   ├── _list-group.scss
         │   ├── _lists.scss
         │   ├── _nav-divider.scss
-        │   ├── _navbar-align.scss
         │   ├── _pagination.scss
         │   ├── _reset-text.scss
         │   ├── _resize.scss
@@ -123,6 +120,7 @@ bootstrap/
             ├── _float.scss
             ├── _position.scss
             ├── _screenreaders.scss
+            ├── _shadows.scss
             ├── _sizing.scss
             ├── _spacing.scss
             ├── _text.scss
@@ -132,4 +130,4 @@ bootstrap/
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
+Copyright [Bootstrap](https://github.com/twbs/bootstrap).
